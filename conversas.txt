@@ -1,0 +1,1709 @@
+Oi! Tudo bem?
+
+Oi! Tudo e você?
+
+O que você vai fazer hoje?
+
+Acho que vou assistir um filme. E você?
+
+Você já almoçou?
+
+Ainda não. Estou pensando em pedir alguma coisa. Sugestões?
+
+Amanhã vai ter reunião às 10h.
+
+Beleza, estarei lá.
+
+Como foi seu fim de semana?
+
+Foi tranquilo, descansei bastante. E o seu?
+
+Está chovendo aí?
+
+Não, aqui está sol. E aí?
+
+Você viu o último episódio daquela série?
+
+Sim, vi ontem! Foi incrível, né?
+
+Preciso de ajuda com um trabalho, você pode me ajudar?
+
+Claro, sobre o que é?
+
+Vamos sair para jantar hoje?
+
+Vamos sim! Onde você quer ir?
+
+Você recebeu o e-mail que enviei?
+
+Sim, recebi. Vou dar uma olhada e te respondo.
+
+Bom dia! Dormiu bem?
+
+Bom dia! Dormi sim, e você?
+
+Pode me mandar o link daquele site?
+
+Claro, aqui está: [link].
+
+Vamos ao cinema no sábado?
+
+Ótima ideia! Que horas?
+
+O que você está fazendo agora?
+
+Estou trabalhando. E você?
+
+Estou com fome. Alguma sugestão de lanche?
+
+Que tal um sanduíche?
+
+Você viu a notícia sobre aquele assunto?
+
+Vi sim, muito interessante.
+
+Quando você vai viajar?
+
+Semana que vem. E você?
+
+Vamos estudar juntos para a prova?
+
+Vamos sim, que horas?
+
+Você já terminou aquele projeto?
+
+Ainda não, estou quase terminando.
+
+Qual é o seu filme favorito?
+
+Gosto muito de comédias. E você?
+
+Pode me enviar aquele arquivo?
+
+Claro, estou enviando agora.
+
+Vamos fazer uma chamada de vídeo mais tarde?
+
+Vamos sim, por volta das 19h?
+
+Você gosta de música?
+
+Sim, gosto muito! Qual seu gênero favorito?
+
+Quer sair para tomar um café?
+
+Quero sim! Quando você pode?
+
+Já comprou os ingressos para o show?
+
+Sim, comprei ontem.
+
+Você gosta de ler?
+
+Gosto sim. Qual seu livro favorito?
+
+Vamos marcar de jogar alguma coisa no fim de semana?
+
+Vamos sim! O que você quer jogar?
+
+Você sabe onde fica aquele restaurante novo?
+
+Sim, fica na rua principal, perto da praça.
+
+Você tem planos para o feriado?
+
+Ainda não. Alguma sugestão?
+
+Gostei da sua foto nova!
+
+Obrigado! Foi tirada na última viagem.
+
+Quer ir ao parque mais tarde?
+
+Quero sim! Que horas?
+
+Você já foi àquela loja nova?
+
+Ainda não, mas quero ir em breve.
+
+Vamos ao shopping amanhã?
+
+Vamos sim! Preciso comprar algumas coisas.
+
+Qual é a sua comida favorita?
+
+Adoro pizza. E você?
+
+Você pode me ajudar com isso?
+
+Claro, no que você precisa de ajuda?
+
+Como está o trabalho?
+
+Está indo bem, e o seu?
+
+Você vai ao evento no sábado?
+
+Vou sim! E você?
+
+Vamos assistir a um jogo juntos?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de animais?
+
+Gosto muito! Tenho um cachorro. E você?
+
+Já decidiu onde vai passar as férias?
+
+Ainda não, estou pensando em ir para a praia.
+
+Pode me dar uma carona amanhã?
+
+Claro, sem problemas.
+
+Você já viu aquele filme novo?
+
+Ainda não, mas está na minha lista.
+
+Vamos fazer uma caminhada amanhã cedo?
+
+Vamos sim! Que horas?
+
+Qual é a sua cor favorita?
+
+Gosto de azul. E você?
+
+Pode me enviar o contato daquele profissional?
+
+Sim, vou te enviar agora.
+
+Você tem planos para hoje à noite?
+
+Ainda não, você tem alguma ideia?
+
+Vamos cozinhar algo juntos?
+
+Vamos sim! O que você quer fazer?
+
+Você já experimentou aquela receita?
+
+Ainda não, mas parece deliciosa.
+
+Vamos à feira no domingo?
+
+Vamos sim! Gosto muito de lá.
+
+Você gosta de esportes?
+
+Sim, gosto muito de futebol. E você?
+
+Já ouviu falar daquele novo restaurante?
+
+Sim, ouvi dizer que é ótimo.
+
+Vamos sair para caminhar?
+
+Vamos sim! Onde você quer ir?
+
+Você está assistindo alguma série nova?
+
+Sim, estou vendo uma muito boa. E você?
+
+Qual é a sua estação do ano favorita?
+
+Gosto do verão. E você?
+
+Pode me ajudar com as compras?
+
+Claro, vamos juntos.
+
+Você já viajou para o exterior?
+
+Sim, fui ano passado. E você?
+
+Vamos ao parque de diversões no fim de semana?
+
+Vamos sim! Adoro parques.
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Já resolveu aquele problema?
+
+Ainda não, mas estou quase lá.
+
+Quer almoçar comigo hoje?
+
+Quero sim! Onde vamos?
+
+Você já tentou aquele novo aplicativo?
+
+Sim, estou gostando muito. E você?
+
+Vamos assistir a um filme juntos?
+
+Vamos sim! Qual filme você quer ver?
+
+Você gosta de cozinhar?
+
+Gosto sim. E você?
+
+Qual é o seu hobby favorito?
+
+Gosto de pintar. E você?
+
+Vamos tomar um sorvete?
+
+Vamos sim! Qual sabor você quer?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Quer ir à praia no fim de semana?
+
+Quero sim! Faz tempo que não vou.
+
+Você está livre para conversar agora?
+
+Sim, estou. O que você precisa?
+
+Vamos fazer uma trilha amanhã?
+
+Vamos sim! Que horas?
+
+Você gosta de festas?
+
+Gosto sim, e você?
+
+Vamos tomar um suco?
+
+Vamos sim! Onde?
+
+Qual é o seu animal favorito?
+
+Gosto de gatos. E você?
+
+Você tem irmãos?
+
+Tenho sim, e você?
+
+Vamos ao museu no sábado?
+
+Vamos sim! Gosto muito de museus.
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Já comprou o presente de aniversário?
+
+Ainda não, estou pensando em algo especial.
+
+Vamos jantar fora hoje?
+
+Vamos sim! Onde você quer ir?
+
+Você gosta de arte?
+
+Gosto sim. E você?
+
+Quer ir ao cinema hoje?
+
+Quero sim! Que filme vamos ver?
+
+Você já foi àquele parque?
+
+Sim, é muito bonito. E você?
+
+Vamos tomar um café mais tarde?
+
+Vamos sim! Que horas?
+
+Qual é a sua música favorita?
+
+Gosto de rock. E você?
+
+Você pode me emprestar aquele livro?
+
+Claro, te empresto sim.
+
+Vamos fazer um piquenique no domingo?
+
+Vamos sim! Onde você quer ir?
+
+Você gosta de dançar?
+
+Gosto sim. E você?
+
+Quer ir ao zoológico?
+
+Quero sim! Faz tempo que não vou.
+
+Qual é o seu esporte favorito?
+
+Gosto de natação. E você?
+
+Vamos assistir a um show?
+
+Vamos sim! Qual show você quer ver?
+
+Você já foi naquele restaurante novo?
+
+Ainda não, mas quero ir em breve.
+
+Quer sair para caminhar amanhã?
+
+Quero sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto sim, e você?
+
+Vamos ao teatro na sexta-feira?
+
+Vamos sim! O que está em cartaz?
+
+Você já decidiu o que fazer no fim de semana?
+
+Ainda não, mas estou aberto a sugestões.
+
+Quer vir aqui em casa mais tarde?
+
+Quero sim! O que vamos fazer?
+
+Você já comprou as passagens?
+
+Sim, comprei ontem. E você?
+
+Vamos assistir àquele jogo juntos?
+
+Vamos sim! Que horas começa?
+
+Você gosta de jogar cartas?
+
+Gosto sim, e você?
+
+Vamos fazer um churrasco no sábado?
+
+Vamos sim! Quem vamos convidar?
+
+Você já terminou de ler aquele livro?
+
+Ainda não, mas estou quase lá.
+
+Quer sair para jantar hoje?
+
+Quero sim! Onde vamos?
+
+Você já viu aquela exposição de arte?
+
+Ainda não, mas parece interessante.
+
+Vamos à feira amanhã?
+
+Vamos sim! Preciso comprar algumas frutas.
+
+Você gosta de ir ao cinema?
+
+Gosto muito! E você?
+
+Quer sair para dançar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela loja nova?
+
+Sim, é ótima. E você?
+
+Vamos fazer uma videochamada mais tarde?
+
+Vamos sim! Que horas?
+
+Você já decidiu onde vai passar as férias?
+
+Ainda não, estou pensando em alguns lugares.
+
+Quer ir ao shopping amanhã?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Vamos assistir a um documentário juntos?
+
+Vamos sim! Qual você sugere?
+
+Você já viajou para outro país?
+
+Sim, ano passado. E você?
+
+Quer sair para tomar um café?
+
+Quero sim! Onde você quer ir?
+
+Você já assistiu àquele show de comédia?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos fazer um passeio de bicicleta?
+
+Vamos sim! Quando você pode?
+
+Você gosta de ler?
+
+Gosto muito! Qual é o seu livro favorito?
+
+Vamos ao parque mais tarde?
+
+Vamos sim! Que horas?
+
+Você já foi àquele evento?
+
+Ainda não, mas quero ir. E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde você sugere?
+
+Você gosta de animais de estimação?
+
+Gosto muito! Tenho um gato. E você?
+
+Vamos fazer um jantar juntos?
+
+Vamos sim! O que vamos cozinhar?
+
+Você já ouviu aquela música nova?
+
+Sim, gostei muito. E você?
+
+Quer ir ao cinema no fim de semana?
+
+Quero sim! Que filme vamos ver?
+
+Você já terminou aquele projeto?
+
+Sim, terminei ontem. E você?
+
+Vamos assistir a uma série juntos?
+
+Vamos sim! Qual série você sugere?
+
+Você gosta de esportes radicais?
+
+Gosto sim, e você?
+
+Quer sair para jantar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela feira?
+
+Sim, é ótima. E você?
+
+Vamos fazer uma caminhada amanhã?
+
+Vamos sim! Que horas?
+
+Você gosta de música ao vivo?
+
+Gosto muito! E você?
+
+Quer ir ao parque de diversões?
+
+Quero sim! Faz tempo que não vou.
+
+Você já experimentou aquele prato
+
+ novo?
+
+Ainda não, mas parece delicioso. E você?
+
+Vamos ao shopping mais tarde?
+
+Vamos sim! Preciso comprar algumas coisas.
+
+Você gosta de festas?
+
+Gosto sim, e você?
+
+Quer sair para almoçar hoje?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme novo?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos fazer uma viagem juntos?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de cozinhar?
+
+Gosto sim. E você?
+
+Quer ir ao museu no sábado?
+
+Quero sim! Gosto muito de museus.
+
+Você já foi naquela loja nova?
+
+Ainda não, mas quero ir em breve. E você?
+
+Vamos assistir a um jogo juntos?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de dançar?
+
+Gosto sim. E você?
+
+Quer sair para tomar um sorvete?
+
+Quero sim! Onde você sugere?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos ao parque de diversões no domingo?
+
+Vamos sim! Adoro parques de diversões.
+
+Você gosta de filmes de comédia?
+
+Gosto muito! E você?
+
+Quer sair para caminhar mais tarde?
+
+Quero sim! Onde vamos?
+
+Você já terminou aquele relatório?
+
+Sim, terminei ontem. E você?
+
+Vamos assistir a uma peça de teatro?
+
+Vamos sim! O que está em cartaz?
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Quer ir à praia no fim de semana?
+
+Quero sim! Faz tempo que não vou.
+
+Você já experimentou aquele restaurante novo?
+
+Ainda não, mas quero muito ir. E você?
+
+Vamos ao cinema hoje?
+
+Vamos sim! Que filme você quer ver?
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Quer sair para tomar um suco?
+
+Quero sim! Onde vamos?
+
+Você já assistiu àquele documentário?
+
+Ainda não, mas parece interessante. E você?
+
+Vamos fazer uma trilha amanhã?
+
+Vamos sim! Que horas?
+
+Você gosta de esportes?
+
+Gosto sim, e você?
+
+Quer sair para jantar hoje?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela exposição de arte?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos fazer um piquenique no sábado?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de jogar cartas?
+
+Gosto sim. E você?
+
+Quer sair para caminhar mais tarde?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos ao parque amanhã?
+
+Vamos sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto muito! E você?
+
+Quer ir ao shopping hoje?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você já foi àquela feira de artesanato?
+
+Ainda não, mas quero ir. E você?
+
+Vamos fazer uma caminhada mais tarde?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de música clássica?
+
+Gosto sim. E você?
+
+Quer sair para almoçar?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme?
+
+Ainda não, mas parece bom. E você?
+
+Vamos fazer uma viagem juntos?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Quer ir ao museu?
+
+Quero sim! Onde você sugere?
+
+Você já foi naquela loja?
+
+Ainda não, mas quero ir. E você?
+
+Vamos assistir a um jogo?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de dançar?
+
+Gosto muito! E você?
+
+Quer sair para tomar um café?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos ao parque de diversões?
+
+Vamos sim! Adoro parques.
+
+Você gosta de filmes de comédia?
+
+Gosto muito! E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já terminou aquele trabalho?
+
+Ainda não, mas estou quase lá.
+
+Vamos assistir a uma peça?
+
+Vamos sim! O que está em cartaz?
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Quer ir à praia?
+
+Quero sim! Faz tempo que não vou.
+
+Você já foi naquele restaurante?
+
+Ainda não, mas quero ir. E você?
+
+Vamos ao cinema?
+
+Vamos sim! Que filme você quer ver?
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Quer sair para tomar um suco?
+
+Quero sim! Onde vamos?
+
+Você já assistiu àquele documentário?
+
+Ainda não, mas parece interessante. E você?
+
+Vamos fazer uma trilha?
+
+Vamos sim! Que horas?
+
+Você gosta de esportes?
+
+Gosto sim, e você?
+
+Quer sair para jantar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela exposição de arte?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos fazer um piquenique?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de jogar cartas?
+
+Gosto sim. E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos ao parque?
+
+Vamos sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto muito! E você?
+
+Quer ir ao shopping?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você já foi àquela feira?
+
+Ainda não, mas quero ir. E você?
+
+Vamos fazer uma caminhada?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de música clássica?
+
+Gosto sim. E você?
+
+Quer sair para almoçar?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme?
+
+Ainda não, mas parece bom. E você?
+
+Vamos fazer uma viagem?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Quer ir ao museu?
+
+Quero sim! Onde você sugere?
+
+Você já foi naquela loja?
+
+Ainda não, mas quero ir. E você?
+
+Vamos assistir a um jogo?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de dançar?
+
+Gosto muito! E você?
+
+Quer sair para tomar um café?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos ao parque de diversões?
+
+Vamos sim! Adoro parques.
+
+Você gosta de filmes de comédia?
+
+Gosto muito! E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já terminou aquele trabalho?
+
+Ainda não, mas estou quase lá.
+
+Vamos assistir a uma peça?
+
+Vamos sim! O que está em cartaz?
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Quer ir à praia?
+
+Quero sim! Faz tempo que não vou.
+
+Você já foi naquele restaurante?
+
+Ainda não, mas quero ir. E você?
+
+Vamos ao cinema?
+
+Vamos sim! Que filme você quer ver?
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Quer sair para tomar um suco?
+
+Quero sim! Onde vamos?
+
+Você já assistiu àquele documentário?
+
+Ainda não, mas parece interessante. E você?
+
+Vamos fazer uma trilha?
+
+Vamos sim! Que horas?
+
+Você gosta de esportes?
+
+Gosto sim, e você?
+
+Quer sair para jantar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela exposição de arte?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos fazer um piquenique?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de jogar cartas?
+
+Gosto sim. E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos ao parque?
+
+Vamos sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto muito! E você?
+
+Quer ir ao shopping?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você já foi àquela feira?
+
+Ainda não, mas quero ir. E você?
+
+Vamos fazer uma caminhada?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de música clássica?
+
+Gosto sim. E você?
+
+Quer sair para almoçar?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme?
+
+Ainda não, mas parece bom. E você?
+
+Vamos fazer uma viagem?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Quer ir ao museu?
+
+Quero sim! Onde você sugere?
+
+Você já foi naquela loja?
+
+Ainda não, mas quero ir. E você?
+
+Vamos assistir a um jogo?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de dançar?
+
+Gosto muito! E você?
+
+Quer sair para tomar um café?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos ao parque de diversões?
+
+Vamos sim! Adoro parques.
+
+Você gosta de filmes de comédia?
+
+Gosto muito! E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já terminou aquele trabalho?
+
+Ainda não, mas estou quase lá.
+
+Vamos assistir a uma peça?
+
+Vamos sim! O que está em cartaz?
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Quer ir à praia?
+
+Quero sim! Faz tempo que não vou.
+
+Você já foi naquele restaurante?
+
+Ainda não, mas quero ir. E você?
+
+Vamos ao cinema?
+
+Vamos sim! Que filme você quer ver?
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Quer sair para tomar um suco?
+
+Quero sim! Onde vamos?
+
+Você já assistiu àquele documentário?
+
+Ainda não, mas parece interessante. E você?
+
+Vamos fazer uma trilha?
+
+Vamos sim! Que horas?
+
+Você gosta de esportes?
+
+Gosto sim, e você?
+
+Quer sair para jantar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela exposição de arte?
+
+Ainda não, mas estou curioso
+
+. E você?
+
+Vamos fazer um piquenique?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de jogar cartas?
+
+Gosto sim. E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos ao parque?
+
+Vamos sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto muito! E você?
+
+Quer ir ao shopping?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você já foi àquela feira?
+
+Ainda não, mas quero ir. E você?
+
+Vamos fazer uma caminhada?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de música clássica?
+
+Gosto sim. E você?
+
+Quer sair para almoçar?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme?
+
+Ainda não, mas parece bom. E você?
+
+Vamos fazer uma viagem?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Quer ir ao museu?
+
+Quero sim! Onde você sugere?
+
+Você já foi naquela loja?
+
+Ainda não, mas quero ir. E você?
+
+Vamos assistir a um jogo?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de dançar?
+
+Gosto muito! E você?
+
+Quer sair para tomar um café?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos ao parque de diversões?
+
+Vamos sim! Adoro parques.
+
+Você gosta de filmes de comédia?
+
+Gosto muito! E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já terminou aquele trabalho?
+
+Ainda não, mas estou quase lá.
+
+Vamos assistir a uma peça?
+
+Vamos sim! O que está em cartaz?
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Quer ir à praia?
+
+Quero sim! Faz tempo que não vou.
+
+Você já foi naquele restaurante?
+
+Ainda não, mas quero ir. E você?
+
+Vamos ao cinema?
+
+Vamos sim! Que filme você quer ver?
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Quer sair para tomar um suco?
+
+Quero sim! Onde vamos?
+
+Você já assistiu àquele documentário?
+
+Ainda não, mas parece interessante. E você?
+
+Vamos fazer uma trilha?
+
+Vamos sim! Que horas?
+
+Você gosta de esportes?
+
+Gosto sim, e você?
+
+Quer sair para jantar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela exposição de arte?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos fazer um piquenique?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de jogar cartas?
+
+Gosto sim. E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos ao parque?
+
+Vamos sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto muito! E você?
+
+Quer ir ao shopping?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você já foi àquela feira?
+
+Ainda não, mas quero ir. E você?
+
+Vamos fazer uma caminhada?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de música clássica?
+
+Gosto sim. E você?
+
+Quer sair para almoçar?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme?
+
+Ainda não, mas parece bom. E você?
+
+Vamos fazer uma viagem?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Quer ir ao museu?
+
+Quero sim! Onde você sugere?
+
+Você já foi naquela loja?
+
+Ainda não, mas quero ir. E você?
+
+Vamos assistir a um jogo?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de dançar?
+
+Gosto muito! E você?
+
+Quer sair para tomar um café?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos ao parque de diversões?
+
+Vamos sim! Adoro parques.
+
+Você gosta de filmes de comédia?
+
+Gosto muito! E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já terminou aquele trabalho?
+
+Ainda não, mas estou quase lá.
+
+Vamos assistir a uma peça?
+
+Vamos sim! O que está em cartaz?
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Quer ir à praia?
+
+Quero sim! Faz tempo que não vou.
+
+Você já foi naquele restaurante?
+
+Ainda não, mas quero ir. E você?
+
+Vamos ao cinema?
+
+Vamos sim! Que filme você quer ver?
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Quer sair para tomar um suco?
+
+Quero sim! Onde vamos?
+
+Você já assistiu àquele documentário?
+
+Ainda não, mas parece interessante. E você?
+
+Vamos fazer uma trilha?
+
+Vamos sim! Que horas?
+
+Você gosta de esportes?
+
+Gosto sim, e você?
+
+Quer sair para jantar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela exposição de arte?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos fazer um piquenique?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de jogar cartas?
+
+Gosto sim. E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos ao parque?
+
+Vamos sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto muito! E você?
+
+Quer ir ao shopping?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você já foi àquela feira?
+
+Ainda não, mas quero ir. E você?
+
+Vamos fazer uma caminhada?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de música clássica?
+
+Gosto sim. E você?
+
+Quer sair para almoçar?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme?
+
+Ainda não, mas parece bom. E você?
+
+Vamos fazer uma viagem?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Quer ir ao museu?
+
+Quero sim! Onde você sugere?
+
+Você já foi naquela loja?
+
+Ainda não, mas quero ir. E você?
+
+Vamos assistir a um jogo?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de dançar?
+
+Gosto muito! E você?
+
+Quer sair para tomar um café?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos ao parque de diversões?
+
+Vamos sim! Adoro parques.
+
+Você gosta de filmes de comédia?
+
+Gosto muito! E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já terminou aquele trabalho?
+
+Ainda não, mas estou quase lá.
+
+Vamos assistir a uma peça?
+
+Vamos sim! O que está em cartaz?
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Quer ir à praia?
+
+Quero sim! Faz tempo que não vou.
+
+Você já foi naquele restaurante?
+
+Ainda não, mas quero ir. E você?
+
+Vamos ao cinema?
+
+Vamos sim! Que filme você quer ver?
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Quer sair para tomar um suco?
+
+Quero sim! Onde vamos?
+
+Você já assistiu àquele documentário?
+
+Ainda não, mas parece interessante. E você?
+
+Vamos fazer uma trilha?
+
+Vamos sim! Que horas?
+
+Você gosta de esportes?
+
+Gosto sim, e você?
+
+Quer sair para jantar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela exposição de arte?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos fazer um piquenique?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de jogar cartas?
+
+Gosto sim. E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos ao parque?
+
+Vamos sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto muito! E você?
+
+Quer ir ao shopping?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você já foi àquela feira?
+
+Ainda não, mas quero ir. E você?
+
+Vamos fazer uma caminhada?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de música clássica?
+
+Gosto sim. E você?
+
+Quer sair para almoçar?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme?
+
+Ainda não, mas parece bom. E você?
+
+Vamos fazer uma viagem?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Quer ir ao museu?
+
+Quero sim! Onde você sugere?
+
+Você já foi naquela loja?
+
+Ainda não, mas quero ir. E você?
+
+Vamos assistir a um jogo?
+
+Vamos sim! Qual jogo você quer ver?
+
+Você gosta de dançar?
+
+Gosto muito! E você?
+
+Quer sair para tomar um café?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro novo?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos ao parque de diversões?
+
+Vamos sim! Adoro parques.
+
+Você gosta de filmes de comédia?
+
+Gosto muito! E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já terminou aquele trabalho?
+
+Ainda não, mas estou quase lá.
+
+Vamos assistir a uma peça?
+
+Vamos sim! O que está em cartaz?
+
+Você gosta de viajar?
+
+Gosto muito! E você?
+
+Quer ir à praia?
+
+Quero sim! Faz tempo que não vou.
+
+Você já foi naquele restaurante?
+
+Ainda não, mas quero ir. E você?
+
+Vamos ao cinema?
+
+Vamos sim! Que filme você quer ver?
+
+Você gosta de jogar videogame?
+
+Gosto sim. Qual é o seu jogo favorito?
+
+Quer sair para tomar um suco?
+
+Quero sim! Onde vamos?
+
+Você já assistiu àquele documentário?
+
+Ainda não
+
+, mas parece interessante. E você?
+
+Vamos fazer uma trilha?
+
+Vamos sim! Que horas?
+
+Você gosta de esportes?
+
+Gosto sim, e você?
+
+Quer sair para jantar?
+
+Quero sim! Onde vamos?
+
+Você já foi àquela exposição de arte?
+
+Ainda não, mas estou curioso. E você?
+
+Vamos fazer um piquenique?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de jogar cartas?
+
+Gosto sim. E você?
+
+Quer sair para caminhar?
+
+Quero sim! Onde vamos?
+
+Você já leu aquele livro?
+
+Ainda não, mas está na minha lista. E você?
+
+Vamos ao parque?
+
+Vamos sim! Que horas?
+
+Você gosta de filmes de ação?
+
+Gosto muito! E você?
+
+Quer ir ao shopping?
+
+Quero sim! Preciso comprar algumas coisas.
+
+Você já foi àquela feira?
+
+Ainda não, mas quero ir. E você?
+
+Vamos fazer uma caminhada?
+
+Vamos sim! Onde você sugere?
+
+Você gosta de música clássica?
+
+Gosto sim. E você?
+
+Quer sair para almoçar?
+
+Quero sim! Onde vamos?
+
+Você já viu aquele filme?
+
+Ainda não, mas parece bom. E você?
+
+Vamos fazer uma viagem?
+
+Vamos sim! Para onde você quer ir?
+
+Você gosta de culinária?
+
+Gosto sim. E você?
+
+Quer ir ao museu?
+
+Quero sim! Onde
